@@ -1,0 +1,6 @@
+user : pi
+password : c********
+
+sudo raspi-config 
+change hostname
+
